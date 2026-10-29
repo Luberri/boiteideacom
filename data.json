@@ -1,0 +1,65 @@
+{
+  "community": {
+    "name": "Com'Univ"
+  },
+  "promotions": ["P17", "P16", "DS4"],
+  "admins": [
+    {
+      "id": "alice",
+      "name": "Alice",
+      "password": "alice2026"
+    },
+    {
+      "id": "marc",
+      "name": "Marc",
+      "password": "marc2026"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "i1",
+      "createdAt": "2026-10-29T09:00:00",
+      "author": "",
+      "anonymous": false,
+      "promotion": "P17",
+      "theme": "Infiltration club",
+      "description": "Créer une série de vlogs courts, fun et immersifs de 60 à 90 secondes au sein des différents clubs de l'université. Toutes les 1 à 2 semaines, un membre de Com'Univ infiltre un club et participe directement à ses activités : dessin avec le Club Art, initiation à la danse, découverte de l'ambiance du Club Gaming, réunions et autres activités associatives. Les vidéos seront diffusées sur les réseaux sociaux, notamment Facebook, avec la possibilité de commencer sur Instagram.",
+      "reason": "Augmenter les vues, les likes et les partages en profitant du réseau des autres clubs. Aider les étudiants de L1 à découvrir les clubs et à s'intégrer en montrant que les nouveaux sont les bienvenus, même sans expérience. Mettre en valeur la vie étudiante, les moments de convivialité et les activités du campus afin de dépasser l'image d'une université uniquement centrée sur les cours et les écrans.",
+      "status": "nouvelle"
+    },
+    {
+      "id": "i2",
+      "createdAt": "2026-10-29T09:15:00",
+      "author": "",
+      "anonymous": false,
+      "promotion": "P17",
+      "theme": "Chronique spéciale rentrée : Vrai ou Faux",
+      "description": "Créer une chronique vidéo spéciale rentrée dans laquelle les étudiants de L1 partagent leurs préjugés, leurs craintes et leurs idées reçues sur la vie universitaire. Des étudiants de L2 et L3 réagissent ensuite et racontent leurs expériences pour démystifier la vie à l'université.",
+      "reason": "Rassurer les nouveaux étudiants, répondre à leurs interrogations et faciliter leur intégration. Le format favorise les échanges entre promotions et permet de produire des contenus accessibles, spontanés et engageants sur les réseaux sociaux.",
+      "status": "nouvelle"
+    },
+    {
+      "id": "i3",
+      "createdAt": "2026-10-29T09:30:00",
+      "author": "",
+      "anonymous": false,
+      "promotion": "P16",
+      "theme": "Chronique informative : Ils l'ont fait, ils vous racontent",
+      "description": "Produire ponctuellement des vidéos accessibles aux lycéens et aux parents. Dans le format « Ils l'ont fait, ils vous racontent », un ancien étudiant présente son métier de manière simple, explique son quotidien et partage son parcours, sans nécessiter de connaissances techniques préalables.",
+      "reason": "Aider les lycéens et leurs parents à mieux comprendre les débouchés professionnels et les métiers accessibles après les études. Valoriser le parcours des anciens étudiants et rendre les formations de l'université plus concrètes pour les futurs candidats.",
+      "status": "nouvelle"
+    },
+    {
+      "id": "i4",
+      "createdAt": "2026-10-29T09:45:00",
+      "author": "",
+      "anonymous": false,
+      "promotion": "P16",
+      "theme": "Chronique informative : Mise en avant des clubs universitaires",
+      "description": "Créer ponctuellement des publications et des vidéos en collaboration avec les différents clubs de l'université. Présenter leurs activités, leurs membres, leurs événements et les possibilités de participation afin de mettre en valeur la diversité de la vie étudiante.",
+      "reason": "Toucher des publics aux centres d'intérêt variés, augmenter la visibilité des clubs grâce aux publications collaboratives et montrer aux étudiants ainsi qu'aux futurs inscrits que l'université propose des activités au-delà des cours.",
+      "status": "nouvelle"
+    }
+  ],
+  "schedule": []
+}
